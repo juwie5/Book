@@ -1,4 +1,4 @@
-# book
+# Book
 
 ## Build Setup
 

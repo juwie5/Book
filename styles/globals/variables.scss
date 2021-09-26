@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+$default-fonts: 'Inter',sans-serif;;
+$header-fonts: 'Source Serif Pro', serif;
+$cool-grey1: #232B34;
+$cool-grey2: #363C49;
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: $default-fonts;
+}
